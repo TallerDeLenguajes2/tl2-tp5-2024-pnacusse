@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7242C7C-0A98-4F4B-8456-4088129EB7F7}|tp5.csproj|c:\\users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7242C7C-0A98-4F4B-8456-4088129EB7F7}|tp5.csproj|solutionrelative:controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7242C7C-0A98-4F4B-8456-4088129EB7F7}|tp5.csproj|c:\\users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\repositorios\\presupuestosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7242C7C-0A98-4F4B-8456-4088129EB7F7}|tp5.csproj|solutionrelative:repositorios\\presupuestosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7242C7C-0A98-4F4B-8456-4088129EB7F7}|tp5.csproj|c:\\users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7242C7C-0A98-4F4B-8456-4088129EB7F7}|tp5.csproj|solutionrelative:repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresupuestoController.cs",
+              "DocumentMoniker": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\Controllers\\PresupuestoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PresupuestoController.cs",
+              "ToolTip": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\Controllers\\PresupuestoController.cs",
+              "RelativeToolTip": "Controllers\\PresupuestoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:56:54.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresupuestosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\Repositorios\\PresupuestosRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\PresupuestosRepository.cs",
+              "ToolTip": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\Repositorios\\PresupuestosRepository.cs",
+              "RelativeToolTip": "Repositorios\\PresupuestosRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:35:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\Repositorios\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\grand\\source\\repos\\tl2-tp5-2024-pnacusse\\tp5\\Repositorios\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositorios\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:16:57.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
